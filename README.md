@@ -1,2 +1,2 @@
 # Simon-Game
-It is a Simon Game which is basically for mind concentration with the help of HTML5, CSS3, JavaScript.
+It is a game for mind concentration and made with the help of technologies as HTML5, CSS3, JavaScript.
